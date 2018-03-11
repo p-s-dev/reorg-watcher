@@ -1,7 +1,7 @@
 package com.psdev.monitor.chainreorg.service;
 
-import com.psdev.monitor.chainreorg.model.SimpleBlock;
 import com.psdev.monitor.chainreorg.model.AutoDiscardingDeque;
+import com.psdev.monitor.chainreorg.model.SimpleBlock;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -9,5 +9,4 @@ RUN mkdir -p /tmp/java-test
 
 COPY build/libs/chainreorg-0.1.0.jar /tmp/java-test/
 
-#CMD java -cp /tmp/java-test/reorg-watcher-0.1.0.jar com.psdev.monitor.chainreorg.Application
 CMD java -jar /tmp/java-test/chainreorg-0.1.0.jar
