@@ -4,7 +4,7 @@ Code does this:
 
 1. get web3 rpc connection to a bunch of eth-clone nodes
 2. setup a filter to receive an event every time a new block is found
-3. if the filter report a block where the block number is not equal to the previous block +1, then log a warning
+3. If a block number is not equal to the previous block number +1, then log a warning
 
 
 
