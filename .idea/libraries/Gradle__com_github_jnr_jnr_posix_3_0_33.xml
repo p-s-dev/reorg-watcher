@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jnr:jnr-posix:3.0.33">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jnr/jnr-posix/3.0.33/jnr-posix-3.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

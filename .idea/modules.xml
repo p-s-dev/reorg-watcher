@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reorg-watcher.iml" filepath="$PROJECT_DIR$/reorg-watcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reorg-watcher_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reorg-watcher_main.iml" group="reorg-watcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reorg-watcher_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reorg-watcher_test.iml" group="reorg-watcher" />
+    </modules>
+  </component>
+</project>
