@@ -48,7 +48,7 @@ public class MonitorService {
                         SimpleBlock lastBlock = seenBlocks.get(networkName).peek();
                         if (lastBlock != null &&
                                 !lastBlock.getBlockNumber().add(BigInteger.ONE).equals(block.getBlockNumber())) {
-                            // previous seen block is not same block number as current block.
+                            // previous seen block (+1) is not same block number as current block.
                             // Blocks coming out of order?
                             log.warn("Blocks out of order.  network=" + networkName +
                                     " previous=" + lastBlock.toString() +
